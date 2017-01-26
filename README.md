@@ -1,2 +1,1 @@
-FATE
-====
+get u and v
